@@ -1,6 +1,8 @@
 ### Hi There, My name is Lahav Harary <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I'm a computer science graduate from [Holon Institue of Technology](https://www.hit.ac.il/).
+## About
+I'm a computer science graduate from [Holon Institue of Technology](https://www.hit.ac.il/), Working as a Software Developer at A fintech company named Fibonatix.
+<br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LahavHarary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://il.linkedin.com/in/lahav-harary-361a391ab)](https://il.linkedin.com/in/lahav-harary-361a391ab)
 [![Gmail Badge](https://img.shields.io/badge/-lahavitsme0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lahavitsme0@gmail.com)](mailto:lahavitsme0@gmail.com)
