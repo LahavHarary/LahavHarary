@@ -6,7 +6,7 @@ Working in the tech industry since December 2021.
 <br/>
 In my spare time I like to Play video games (Mostly League of legends, and Crash Bandicoot Trilogy), Create new projects, Rock climbing with friends.
 
-## Recent Projects
+## Recent Personal Projects
 Currently working on a project named DataTube, in order to learn about new technologies and practice software design principles. 
 <br/>
 Main Technologies in this project include C#, Elastic, RabbitMQ, Redis (Queue).
