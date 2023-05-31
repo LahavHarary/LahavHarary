@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, My name is Lahav Harary
+
+## Software Developer
+- 🔭 I’m currently working at: Fibonatix as a Software Engineer, Mostly focusing on Backend tasks.
+- 🌱 Working on a presonal project named DataTube inorder to learn: Software Design principles, Redis, RabbitMQ, Docker.
 
 <!--
 **LahavHarary/LahavHarary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
