@@ -6,7 +6,7 @@ I'm a computer science graduate from [Holon Institue of Technology](https://www.
 [![Gmail Badge](https://img.shields.io/badge/-lahavitsme0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lahavitsme0@gmail.com)](mailto:lahavitsme0@gmail.com)
 
 ## ⚡ Technologies
-
+![C#](https://img.shields.io/badge/-csharp-black?style=flat-square&logo=csharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
