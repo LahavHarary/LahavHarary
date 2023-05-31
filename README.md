@@ -1,7 +1,10 @@
 ### Hi There, My name is Lahav Harary <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 ## About
-I'm a computer science graduate from [Holon Institue of Technology](https://www.hit.ac.il/), Working as a Software Developer at A fintech company named Fibonatix.
+Software Developer at A fintech company, Computer science graduate from [Holon Institue of Technology](https://www.hit.ac.il/), Tech enthusiastic - eager to learn new things and grow as a developer,
+Working in the tech industry since December 2021.
+<br/>
+In my spare time I like to: Play computer games (Mostly League of legends), Create new projects, Rock climbing with friends.
 
 ## Recent Projects
 Currently working on a project named DataTube, in order to learn about new technologies and practice software design principles. 
