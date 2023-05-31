@@ -4,7 +4,7 @@
 Software Developer at A fintech company, Computer science graduate from [Holon Institue of Technology](https://www.hit.ac.il/), Tech enthusiastic - eager to learn new things and grow as a developer,
 Working in the tech industry since December 2021.
 <br/>
-In my spare time I like to: Play computer games (Mostly League of legends), Create new projects, Rock climbing with friends.
+In my spare time I like to Play video games (Mostly League of legends on pc, and Recently I bought the Crash Bandicoot Trilogy), Create new projects, Rock climbing with friends.
 
 ## Recent Projects
 Currently working on a project named DataTube, in order to learn about new technologies and practice software design principles. 
