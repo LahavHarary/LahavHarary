@@ -2,8 +2,8 @@
 
 I'm a computer science graduate from [Holon Institue of Technology](https://www.hit.ac.il/).
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lahavitsme0@gmail.com)](mailto:lahavitsme0@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://il.linkedin.com/in/lahav-harary-361a391ab)](https://il.linkedin.com/in/lahav-harary-361a391ab)
+[![Gmail Badge](https://img.shields.io/badge/-lahavitsme0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lahavitsme0@gmail.com)](mailto:lahavitsme0@gmail.com)
 
 ## ⚡ Technologies
 
